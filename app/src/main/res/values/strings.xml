@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CustomTabsTutorial</string>
+    <string name="action_settings">About</string>
+    <string name="about_title">About</string>
+    <string name="OK">OK</string>
+    <string name="about_dialog"><![CDATA[
+        Tutorial by <b>Marlon Jones</b>.<br/>
+        <a href=\'https://play.google.com/store/apps/dev?id=8037142226626699695\'>Google Play</a>&nbsp;&nbsp;
+        <a href=\'https://plus.google.com/+MarlonJones\'>Google+</a>&nbsp;&nbsp;
+        <a href=\'https://github.com/VirusThePanda\'>GitHub</a>&nbsp;&nbsp;
+    ]]></string>
+</resources>
