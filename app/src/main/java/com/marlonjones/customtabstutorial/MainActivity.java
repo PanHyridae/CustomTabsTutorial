@@ -19,7 +19,7 @@ import android.support.customtabs.CustomTabsSession;
 import com.afollestad.materialdialogs.MaterialDialog;
 
 public class MainActivity extends AppCompatActivity {
-    static final String URL = "https://medium.com/@VirusThePanda/tutorial-chrome-custom-tabs-c727cf3f4ddd#.g3uliapo2";
+    static final String URL = "https://medium.com/@MJonesDev/tutorial-chrome-custom-tabs-c727cf3f4ddd#.g3uliapo2";
     public static final String CUSTOM_TAB_PACKAGE_NAME = "com.android.chrome";
     CustomTabsClient mClient;
     CustomTabsSession mCustomTabsSession;
